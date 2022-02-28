@@ -1,3 +1,3 @@
-token=NTEyNzc2MDU5NTU3NTExMTg3.Ds-esw.bZ57YsB37LpFowB388iSs8Yr1Qk
+token=
 owner=289820404040728578
 prefix=1
